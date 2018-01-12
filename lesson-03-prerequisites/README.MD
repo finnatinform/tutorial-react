@@ -9,8 +9,10 @@ Ein tolles Tutorial zu der Umgebung und ersten Schritten findet sich [hier](http
 2. webpack: npm install -g webpack
 
 ## Boilerplate
+```
 npm install --save react react-dom @types/react @types/react-dom
 npm install --save-dev typescript awesome-typescript-loader source-map-loader
+```
 
 ## Files
 We will need a tsconfig.json
