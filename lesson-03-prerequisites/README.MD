@@ -1,5 +1,5 @@
-# Prerequisites for React Tutorial
-We will use this folder later as boilerplate
+# Lesson 03: Prerequisites
+In dieser Lesson bereiten wir die Umgebung für die React Umgebung vor. Dazu verwenden wir den Module Bundler [webpack](https://github.com/webpack/webpack). Dieser erlaubt es uns mit Hilfe der passenden Loader in verschiedenen Dateien zu entwickeln und diese später zusammenzuführen. webpack bietet außerdem den Vorteil, dass es nicht genutzte Teile von includierten Frameworks aus dem Mergefile rauswirft.
 
 ## Rechner
 1. typescript: npm install -g typescript
