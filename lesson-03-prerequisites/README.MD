@@ -1,6 +1,9 @@
 # Lesson 03: Prerequisites
 In dieser Lesson bereiten wir die Umgebung für die React Umgebung vor. Dazu verwenden wir den Module Bundler [webpack](https://github.com/webpack/webpack). Dieser erlaubt es uns mit Hilfe der passenden Loader in verschiedenen Dateien zu entwickeln und diese später zusammenzuführen. webpack bietet außerdem den Vorteil, dass es nicht genutzte Teile von includierten Frameworks aus dem Mergefile rauswirft.
 
+## Tutorial
+Ein tolles Tutorial zu der Umgebung und ersten Schritten findet sich [hier](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html).
+
 ## Rechner
 1. typescript: npm install -g typescript
 2. webpack: npm install -g webpack
