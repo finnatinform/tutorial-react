@@ -10,6 +10,7 @@ Ein tolles Tutorial zu der Umgebung und ersten Schritten findet sich [hier](http
 
 ## Boilerplate
 ```
+npm init
 npm install --save react react-dom @types/react @types/react-dom
 npm install --save-dev typescript awesome-typescript-loader source-map-loader
 ```
@@ -90,3 +91,10 @@ module.exports = {
     },
 };
 ```
+
+## Deployment
+Jetzt können wir das Projekt mit dem Befehl
+```
+webpack
+```
+bauen.
